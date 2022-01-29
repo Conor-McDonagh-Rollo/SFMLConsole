@@ -1,0 +1,8 @@
+﻿  SFMLConsole.cpp
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(10,53): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(10,38): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(128,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\C00260445\source\repos\SFMLConsole\SFMLConsole\SFMLConsole.cpp(177,21): warning C4018: '<': signed/unsigned mismatch
+  SFMLConsole.vcxproj -> C:\Users\C00260445\source\repos\SFMLConsole\Debug\SFMLConsole.exe
